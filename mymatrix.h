@@ -135,7 +135,7 @@ public:
     //
      mymatrix(mymatrix<T>& other)
      {
-        /* this->Rows = new ROW[other.Size];
+         this->Rows = new ROW[other.Size];
          this->Size = other.Size;
          this->NumRows = other.NumRows;
 
@@ -147,7 +147,7 @@ public:
          for(int i = 0; i < NumRows; i++){
              for(int j = 0; i < Rows[i].NumCols; j++)
              other.Rows[i].Cols[j] = Rows[i].Cols[j];//copying all values from initial matrix to copy matrix
-         }*/
+         }
 
      }
 
