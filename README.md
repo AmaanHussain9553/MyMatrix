@@ -19,7 +19,9 @@ in mathematics and return a matrice with the solution.
 Coding details:
 
 Language: C++ 11
+
 No graphical requirements
+
 Can be run on any IDE capable of compiling C++ 11
 
   
